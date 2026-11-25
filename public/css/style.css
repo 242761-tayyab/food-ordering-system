@@ -1,0 +1,13 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.food-card {
+  height: 100%;
+}
+
+.food-card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
