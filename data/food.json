@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Chicken Burger", "price": 450, "category": "Burgers" },
+  { "id": 2, "name": "Beef Burger", "price": 550, "category": "Burgers" },
+  { "id": 3, "name": "Margherita Pizza", "price": 900, "category": "Pizza" },
+  { "id": 4, "name": "Chicken Tikka Pizza", "price": 1100, "category": "Pizza" },
+  { "id": 5, "name": "Chicken Biryani", "price": 400, "category": "Desi" },
+  { "id": 6, "name": "Chicken Karahi", "price": 1300, "category": "Desi" },
+  { "id": 7, "name": "French Fries", "price": 200, "category": "Snacks" },
+  { "id": 8, "name": "Chicken Nuggets", "price": 350, "category": "Snacks" },
+  { "id": 9, "name": "Cold Drink", "price": 100, "category": "Drinks" },
+  { "id": 10, "name": "Mango Shake", "price": 250, "category": "Drinks" }
+]
